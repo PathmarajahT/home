@@ -1,0 +1,35 @@
+body{
+	background-color:black;
+	font-family:"Courier New",Merriweather,"Times New Roman";
+	font-size:14pt;
+}
+
+ul,p{
+	color:white;
+}
+
+h1,h2,h3{
+	color:red;
+}
+
+#top{
+	text-align:center;
+}
+
+.contents{
+	font-size:12pt;
+	text-align:center
+}
+
+.centerimage,.firstpara,.centercontents,.center{
+	text-align:center;
+}
+.sidenav{
+    background-color:white;
+}
+
+
+	
+
+
+	
